@@ -1,5 +1,6 @@
 # Cpp-Games
-A repository of simple implementations of classical games in C++
+
+All of the games have been implemented in the most simple and beginner-friendly way
 
 Dino
 
